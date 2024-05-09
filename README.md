@@ -1,4 +1,3 @@
-Created an application having functionality of one-to-one chat, group chat, create new group and many more.
-Functionality of Video call, Voice call in app.
-User Authentication, Real-time messaging, File sharing, Search functionality.
-Responsive and user-friendly interface.
+•	This application helps patient to make contact with doctors and help them to book an appointment.
+•	Here all interaction is private, safe and secure with authorization.
+•	Doctor Availability Management, Patient records management, Appointment remainders, Payment processing using Rayzor Pay.
